@@ -1,0 +1,22 @@
+.body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 75vh;
+    height: 50vh;
+    margin: auto;
+    margin-top: 25vh;
+    border-radius: 20px;
+    background-color: rgb(92, 120, 144);
+}
+.dataContainer {
+    text-align: center;
+    background-color: rgba(137, 187, 231, 0.7);
+}
+.data {
+    font-size: 1.5em;
+    opacity: 1 !important;
+    color: rgb(216, 216, 216);
+    font-family: "Oxygen", sans-serif;
+}
