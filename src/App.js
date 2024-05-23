@@ -3,9 +3,11 @@ import Body from './Components/Body.js';
 
 function App() {
   return (
-    <div>
-      <Body />
-    </div>
+    <>
+      <div>
+        <Body />
+      </div>
+    </>
   );
 }
 
